@@ -77,8 +77,21 @@ h3 {
 #portfolio-header {
 	background: url("../media/images/portfolio-header.png") no-repeat center 0 fixed;
 	background-size: 100% auto;
-	height: 50%;
-	width: 100%;
+  width: 100%;
+  font-family: Oswald;
+  color: #7d2114;
+  padding: 0;
+  padding-top: 80px;
+  text-transform: uppercase;
+  text-align: center;
+}
+#portfolio-header .container {
+  margin: auto;
+  text-align: center;
+}
+#portfolio-header h1 {
+  width: 100%;
+  text-align": center;
 }
 
 #about {
