@@ -110,7 +110,15 @@ p {
 
 .background-cream {
 	background-color: #faefd1;
+}
+
+.background-yellow {
+	background-color: #dc863b;
 }	
+
+.background-red {
+	background-color: #c93312;
+}
 
 .navbar-brand {
 	display: inline-block;
