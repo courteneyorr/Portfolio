@@ -99,6 +99,16 @@ h3 {
 	padding-bottom: 50px;
 }
 
+#web section {
+}
+#web section img {
+  margin: 2em;
+  width: 100%;
+}
+#web section img.hidden {
+  display: none;
+}
+
 #content-padding {
 	padding-top: 200px; 
 	padding-bottom: 200px;
